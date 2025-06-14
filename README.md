@@ -42,6 +42,3 @@ Role in System: Converts user-recorded speech into translatable text
 Purpose: Language understanding and dialect classification
 Role in System: Extracts contextual meaning and aids translation to appropriate sign language gesture equivalents
 
-🧪 DistilBERT (Sentiment Analysis)
-Purpose: Analyzes emotion from text
-Role in System: Adjusts avatar emotion for more expressive signing (if sentiment mode is enabled)
