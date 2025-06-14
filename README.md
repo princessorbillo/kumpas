@@ -27,9 +27,13 @@ Catches invalid or empty inputs and alerts the user, although some edge cases (e
 
 🛠️ Tech Stack
 Frontend: Android Studio (Java)
+
 Backend: Flask (Python)
+
 Database: Firebase Realtime Database
+
 Animation Engine: PoseFormat-based 3D avatar rendering for sign language videos
+
 Cloud APIs: Google Cloud Speech-to-Text & Translation API
 
 🤖 Machine Learning / NLP Models Used
